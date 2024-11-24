@@ -1,0 +1,25 @@
+.a1 {
+  overflow: visible;
+  width: 200px;
+  height: 50px;
+  background-color: aqua;
+  color: black;
+}
+
+.a2 {
+  margin-top: 60px;
+  overflow: hidden;
+  width: 200px;
+  height: 50px;
+  background-color: aqua;
+  color: black;
+}
+
+.a3 {
+  margin-top: 60px;
+  overflow: scroll;
+  width: 200px;
+  height: 50px;
+  background-color: aqua;
+  color: black;
+}
